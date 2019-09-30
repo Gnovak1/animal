@@ -1,0 +1,291 @@
+
+.foxheader{
+    height: auto;
+    width: 1500px;
+    
+}
+
+body{
+    background-color: dimgrey;
+}
+
+.main{
+    width: 1250px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: 20px;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.Description{
+    width: 1000 px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.foxmain{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 50px;
+    float: right;
+    position: relative;
+   top: 50px;
+    left: 10px;
+}
+.text_on_image{
+    width: 900 px;
+    text-align: left;
+    position: absolute;
+    margin-left: 100px;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    top: 500px;
+}
+
+.navbar {
+  background-color: azure;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+padding: 10px;
+    width: 1350px;
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.navbar ul{
+    text-align: center;
+}
+
+.navbar ul li a{
+       font-family: 'Hepta Slab', serif;
+    font-size: 25px;
+    color: dimgrey;
+    text-decoration: inherit
+    
+}
+
+.taxmain{
+    width: 1350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 200px;
+    align-content: center
+}
+.taxfox{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    float: right;
+    margin-right: 50px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.location_list{
+    font-family: 'Hepta Slab', serif;
+    font-size: 20 px;
+    color: azure;
+    text-decoration: inherit;
+}
+
+.ecomain{
+      width: 1250px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-left: 60px;
+    margin-top: 900px;
+    align-content: center
+   
+}
+.ecopic{
+     width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 50px;
+    float: right;
+    position: relative;
+   top: 50px;
+    left: 10px;
+}
+
+.biomain{
+    width: 1350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 200px;
+    align-content: center
+}
+.biofox{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    float: right;
+    margin-right: 50px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+    
+}
+
+.behavior{
+    width: 1250px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-left: 50px;
+    margin-top: 300px;
+    float: left;
+    align-content: center
+}
+.behavefox{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin-left: 50px;
+    float: right;
+    position: relative;
+   top: 50px;
+    left: 10px;
+}
+
+.hrmain{
+    width: 1350px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding: 10px;
+    margin-right: 50px;
+    margin-top: 300px;
+    align-content: center
+}
+.hrphoto{
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    float: right;
+    margin-right: 50px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+.footer{
+    background-color: azure;
+    position: absolute;
+    margin-top: 2000px;
+    text-align: center;
+    width: 1500px;
+    height: 30px;
+}
+
+.back_to_top{
+    text-decoration: none;
+}
+
+.caption_right{
+    float: right;
+    left: 350px;
+    top: 50px;
+    position: relative;
+}
+
+.caption_left{
+    float: left;
+    top: 125px;
+    right: 540px;
+    position: relative;
+}
+
+.caption_right2{
+    float: right;
+    right: 40px;
+    bottom: 20px;
+    position: relative;
+}
+
+.caption_left2{
+    float: left;
+    top: 100px;
+    right: 540px;
+    position: relative;
+}
+
+.caption_right3{
+     float: right;
+    left: 400px;
+    top: 80px;
+    position: relative;
+}
+
+.caption_left3{
+    float: left;
+    top: 100px;
+    right: 540px;
+    position: relative;
+}
+
+h1{
+    color: azure;
+    font-size: 100px;
+    font-family: 'Hepta Slab', serif;
+}
+
+h2{
+    color: dimgrey;
+    font-size: 28px;
+    font-family: 'Hepta Slab', serif;
+    margin-left: 50px;
+    background-color: azure;
+    width: auto;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: dimgrey;
+    font-family: 'Hepta Slab', serif;
+    margin-left: 60px;
+    font-size: 15px;
+    width: 1350px;
+    display: inline;
+    text-decoration: inherit;
+    
+}
+
+h4{
+    font-family: 'Hepta Slab', serif;
+    color: azure;
+    font-size: 12px;
+}
+p{
+    color: azure;
+    font-size: 20px;
+    font-family: 'Hepta Slab', serif;
+    margin-left: 80px;
+}
+
